@@ -11,7 +11,7 @@
 
 [Live Demo](#) · [Report Bug](../../issues) · [Request Feature](../../issues)
 
-![GhostChat Preview](https://placehold.co/900x480/07071180/22d3ee?text=GhostChat+Preview&font=montserrat)
+![GhostChat Preview](https://ghostchat-81fx.onrender.com)
 
 </div>
 
