@@ -11,7 +11,8 @@
 
 [Live Demo](#) · [Report Bug](../../issues) · [Request Feature](../../issues)
 
-![GhostChat Preview](https://ghostchat-81fx.onrender.com)
+🌐 **Live Preview:** [https://ghostchat-81fx.onrender.com](https://ghostchat-81fx.onrender.com)
+
 
 </div>
 
